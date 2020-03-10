@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb620f76-4fff-4ee3-bbf9-9e241dbc24d2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YokutYiDEiou301YFM2Wmywguo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources/BrowserDriver" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\ScenarioOutlinePractise\src\test\resources\BrowserDriver" />
+      <recent name="C:\ScenarioOutlinePractise\src\test\java\features" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.RunTest">
+    <configuration name="Scenario: user should not be able to login with invalid credential" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/Features/invalidScenario.feature" />
+      <option name="GLUE" value="WebTest2" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="ScenarioOutlinePractise" />
+      <option name="NAME_FILTER" value="^user should not be able to login with invalid credential$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^user should not be able to login with invalid credential$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: user should not be able to login with invalid credential" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ScenarioOutlinePractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebTest2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WebTest2" />
+      <option name="MAIN_CLASS_NAME" value="WebTest2.RunTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RunTest" />
+        <item itemvalue="Cucumber java.Scenario: user should not be able to login with invalid credential" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb620f76-4fff-4ee3-bbf9-9e241dbc24d2" name="Default Changelist" comment="" />
+      <created>1583616560824</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583616560824</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="558" y="233" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583619289608">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="558" y="233" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1583619289608" />
+    <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1583761532649">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1583761532649" />
+    <state width="1557" height="253" key="GridCell.Tab.0.bottom" timestamp="1583879237791">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="253" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1583879237791" />
+    <state width="1557" height="253" key="GridCell.Tab.0.center" timestamp="1583879237791">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="253" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1583879237791" />
+    <state width="1557" height="253" key="GridCell.Tab.0.left" timestamp="1583879237791">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="253" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1583879237791" />
+    <state width="1557" height="253" key="GridCell.Tab.0.right" timestamp="1583879237791">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="253" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1583879237791" />
+    <state x="330" y="85" key="Maven.ArtifactSearchDialog" timestamp="1583692002947">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="330" y="85" key="Maven.ArtifactSearchDialog/0.0.1600.860@0.0.1600.860" timestamp="1583692002947" />
+    <state x="496" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1583618604183">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="496" y="254" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1583618604183" />
+    <state x="530" y="185" key="extract.method.dialog" timestamp="1583750304122">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="185" key="extract.method.dialog/0.0.1600.860@0.0.1600.860" timestamp="1583750304122" />
+    <state x="506" y="49" key="refactoring.ChangeSignatureDialog" timestamp="1583792597586">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="506" y="49" key="refactoring.ChangeSignatureDialog/0.0.1600.860@0.0.1600.860" timestamp="1583792597586" />
+    <state x="392" y="89" key="scopes" timestamp="1583620900788">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="89" key="scopes/0.0.1600.860@0.0.1600.860" timestamp="1583620900788" />
+  </component>
+</project>
